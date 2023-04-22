@@ -1,0 +1,1 @@
+Here I am creating a Flask project using python file to run the project, and an HTML file as my template for the project. This project includes use of HTML, CSS, Python/Flask, and a hint of Javascript just for fun. 
